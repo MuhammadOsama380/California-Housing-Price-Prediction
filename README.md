@@ -80,3 +80,11 @@ Captures complex non-linear relationships through sequential tree-based learning
 ---
 
 ## 📂 Repository Structure
+data/ → Dataset file
+notebook/ → Jupyter Notebook (.ipynb)
+reports/ → Project reports (Word & PDF)
+presentation/ → Slides (PPTX & PDF)
+results/ → Optional output visuals
+README.md → Overview file
+requirements.txt → Dependencies list
+LICENSE → MIT License
