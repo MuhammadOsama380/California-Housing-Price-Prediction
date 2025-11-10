@@ -88,3 +88,16 @@ results/ → Optional output visuals
 README.md → Overview file
 requirements.txt → Dependencies list
 LICENSE → MIT License
+
+
+## 🧰 How to Run
+```bash
+# Clone the repository
+git clone https://github.com/MuhammadOsama380/California-Housing-Price-Prediction.git
+cd California-Housing-Price-Prediction
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch Jupyter Notebook
+jupyter notebook notebook/Muhammad_Osama_FinalProject_Code.ipynb
